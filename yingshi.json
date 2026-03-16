@@ -4,33 +4,10 @@
       "key": "fanty",
       "name": "饭太硬线路",
       "type": 0,
-      "api": "http://饭太硬.com/tv",
+      "api": "csp_fanty",  // ✅ 注意：这里填爬虫名，不是网址
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "ouge",
-      "name": "讴歌线路",
-      "type": 0,
-      "api": "http://tv.nxog.top/m/111.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    }
-  ],
-  "parses": [
-    {
-      "name": "默认解析",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url="
-    }
-  ],
-  "lives": [
-    {
-      "name": "直播线路",
-      "type": 1,
-      "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u"
     }
   ]
 }
