@@ -4,25 +4,7 @@
       "key": "fanty",
       "name": "饭太硬线路",
       "type": 0,
-      "api": "http://饭太硬.top/tv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "ouge",
-      "name": "讴歌线路",
-      "type": 0,
-      "api": "http://tv.nxog.top/m/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "feimao",
-      "name": "肥猫线路",
-      "type": 0,
-      "api": "http://肥猫.com",
+      "api": "http://www.饭太硬.com/tv",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -32,7 +14,7 @@
     {
       "name": "直播线路",
       "type": 1,
-      "url": "https://raw.githubusercontent.com/Guovin/IPTV/main/results/ipv6.m3u"
+      "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u"
     }
   ],
   "parses": [
