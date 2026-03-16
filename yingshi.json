@@ -2,26 +2,12 @@
   "sites": [
     {
       "key": "fanty",
-      "name": "饭太硬线路",
+      "name": "饭太硬",
       "type": 0,
-      "api": "http://www.饭太硬.com/tv",
+      "api": "http://饭太硬.top/tv",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    }
-  ],
-  "lives": [
-    {
-      "name": "直播线路",
-      "type": 1,
-      "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u"
-    }
-  ],
-  "parses": [
-    {
-      "name": "默认解析",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url="
     }
   ]
 }
